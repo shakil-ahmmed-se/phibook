@@ -30,7 +30,7 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"] # this is necessary 
-CSRF_TRUSTED_ORIGINS = ['https://phibook-cx4g.onrender.com','https://*.127.0.0.1'] 
+CSRF_TRUSTED_ORIGINS = ['https://phibook-4g8j.onrender.com','https://*.127.0.0.1'] 
 
 
 
