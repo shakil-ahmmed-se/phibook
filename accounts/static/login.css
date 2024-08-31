@@ -1,0 +1,19 @@
+.login-form{
+    background-color: white;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 15px;
+
+}
+button.btn-login {
+    background-color: tomato !important;
+    padding: 8px 20px;
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    color: white;
+    font-size:20px;
+    font-weight: bold;
+}
+
+
+
